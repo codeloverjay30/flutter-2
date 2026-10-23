@@ -45,7 +45,7 @@ class FlutterExtension {
     public final int compileSdkVersion = 35
 
     /** Sets the minSdkVersion used by default in Flutter app projects. */
-    public  final int minSdkVersion = 21
+    public  final int minSdkVersion = 25
 
     /**
      * Sets the targetSdkVersion used by default in Flutter app projects.
